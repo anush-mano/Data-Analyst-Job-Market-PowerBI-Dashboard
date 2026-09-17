@@ -152,9 +152,6 @@ Data-Analyst-Job-Market-PowerBI
 ├── Dashboard
 │   └── Data_Analyst_Job_Market.pbix
 │
-├── Data
-│   └── postings.csv
-│
 ├── Screenshots
 │   ├── Overview.png
 │   ├── Skills_Analysis.png
