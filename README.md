@@ -126,15 +126,18 @@ The dashboard allows users to explore:
 
 ### Overview
 
-C:\Users\qccs\Downloads\postings.csv~\Overview.JPG
+<img width="906" height="510" alt="Overview" src="https://github.com/user-attachments/assets/35a77c5f-a716-4c7d-a845-47e853023b4f" />
+
 
 ### Skills Analysis
 
-C:\Users\qccs\Downloads\postings.csv~\Skill_Analysis.JPG
+<img width="906" height="508" alt="Skill_Analysis" src="https://github.com/user-attachments/assets/980f49d8-1c12-4ace-8dd7-2ddfbdf49506" />
+
 
 ### Location & Work Mode
 
-C:\Users\qccs\Downloads\postings.csv~\Location&Work_Mode.JPG
+<img width="905" height="506" alt="Location Work_Mode" src="https://github.com/user-attachments/assets/e4826002-dc71-4746-8edf-8e67c103df5a" />
+
 
 ---
 
