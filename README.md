@@ -98,8 +98,6 @@ The project uses DAX measures and calculations including:
 * `COUNT`
 * `DISTINCTCOUNT`
 * `CALCULATE`
-* `FILTER`
-* `DIVIDE`
 
 The project also demonstrates:
 
@@ -128,15 +126,15 @@ The dashboard allows users to explore:
 
 ### Overview
 
-![Overview](Screenshots/Overview.png)
+C:\Users\qccs\Downloads\postings.csv~\Overview.JPG
 
 ### Skills Analysis
 
-![Skills Analysis](Screenshots/Skills_Analysis.png)
+C:\Users\qccs\Downloads\postings.csv~\Skill_Analysis.JPG
 
 ### Location & Work Mode
 
-![Location & Work Mode](Screenshots/Location_Work_Mode.png)
+C:\Users\qccs\Downloads\postings.csv~\Location&Work_Mode.JPG
 
 ---
 
