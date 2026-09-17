@@ -23,7 +23,7 @@ An interactive **3-page Power BI dashboard** was created to explore job market t
 ## 📂 Dataset
 
 **Dataset:** Data Analyst Job Postings
-**Source:** Kaggle
+**Source:** [Kaggle — Data Analyst Job Postings](https://www.kaggle.com/datasets/asaniczka/data-analyst-job-postings)
 **Author:** asaniczka
 
 The dataset contains job posting information including:
@@ -38,6 +38,9 @@ The dataset contains job posting information including:
 * Job Skills
 * Job Summary
 * First Seen Date
+
+> **Note:** The original CSV dataset is not included in this repository because of its file size. The dataset can be accessed from the original Kaggle source above.
+
 
 ---
 
